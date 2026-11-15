@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Cadu Bezerra — produtos digitais, pagamentos e inteligência artificial">
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1724"/><stop offset="1" stop-color="#102c32"/></linearGradient></defs>
-<rect width="1200" height="340" rx="20" fill="url(#bg)"/>
-<g fill="none" stroke="#2dd4bf" opacity=".15"><circle cx="1100" cy="170" r="210"/><circle cx="1100" cy="170" r="145"/><circle cx="1100" cy="170" r="80"/><path d="M920 0v340M1030 0v340M1140 0v340"/></g>
-<rect x="62" y="60" width="34" height="5" rx="2" fill="#5eead4"/>
-<text x="62" y="112" fill="#81ded2" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="3">FOUNDER @ ZUCKPAY</text>
-<text x="58" y="191" fill="#f3f8fa" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700">Cadu Bezerra</text>
-<text x="62" y="242" fill="#bfd0db" font-family="Arial,Helvetica,sans-serif" font-size="24">Produtos digitais, pagamentos e inteligência artificial.</text>
-<text x="62" y="294" fill="#81ded2" font-family="Arial,Helvetica,sans-serif" font-size="17">@ocadubezerra</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Cadu Bezerra — marketing, produto e tecnologia</title><desc id="desc">Tráfego pago, vendas, SaaS e desenvolvimento. Fundador da ZuckPay. No digital desde 2019.</desc>
+<defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#0c1523"/><stop offset="1" stop-color="#123638"/></linearGradient><pattern id="p" width="44" height="44" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c0e4e4" opacity=".1"/></pattern></defs>
+<rect width="1200" height="360" rx="18" fill="url(#g)"/><rect width="1200" height="360" rx="18" fill="url(#p)"/>
+<path d="M860 0L1200 340M940 0L1200 260M780 0L1140 360" stroke="#77e4d3" opacity=".09"/>
+<rect x="54" y="46" width="44" height="44" rx="12" fill="#5eead4"/><text x="76" y="74" text-anchor="middle" fill="#10252c" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">CB</text>
+<text x="115" y="74" fill="#aad5d6" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">MARKETING / PRODUTO / TECNOLOGIA</text>
+<text x="50" y="176" fill="#f5f9fc" font-family="Arial,Helvetica,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Cadu Bezerra</text>
+<text x="54" y="221" fill="#c2d3de" font-family="Arial,Helvetica,sans-serif" font-size="25">Tráfego pago. Vendas. SaaS. Desenvolvimento.</text>
+<path d="M54 258H1146" stroke="#4f7880" opacity=".45"/>
+<text x="54" y="303" fill="#72dfcd" font-family="Arial,Helvetica,sans-serif" font-size="16">@ocadubezerra</text><text x="1146" y="303" text-anchor="end" fill="#a8c4ce" font-family="Arial,Helvetica,sans-serif" font-size="16">ZuckPay · no digital desde 2019</text>
 </svg>
