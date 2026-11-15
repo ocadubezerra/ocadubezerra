@@ -1,4 +1,7 @@
-![Cadu Bezerra — marketing, produto e tecnologia](assets/profile-header.svg)
+<picture>
+<source media="(max-width: 640px)" srcset="assets/profile-header-mobile.svg">
+<img src="assets/profile-header.svg" alt="Cadu Bezerra — marketing, produto e tecnologia" width="1200">
+</picture>
 
 <p align="center">
   <a href="https://zuckpay.com.br"><strong>ZuckPay</strong></a> &nbsp;·&nbsp;
@@ -12,13 +15,9 @@ Estou no digital desde 2019, quando comecei com dropshipping. Minha base é mark
 
 Sou desenvolvedor entusiasta e gosto de colocar a mão na construção. Uso Claude Code e Codex para desenvolver, testar ideias e evoluir funcionalidades, junto das pessoas que participam de cada projeto.
 
-<table>
-<tr>
-<td width="33%" valign="top"><strong>Aquisição e escala</strong><br><br>Marketing, ofertas, tráfego pago e vendas. Apoio operações que me chamam para trabalhar no crescimento.</td>
-<td width="33%" valign="top"><strong>Produto e negócio</strong><br><br>Participação em projetos e SaaS, construção de funcionalidades e melhoria da experiência de quem usa.</td>
-<td width="33%" valign="top"><strong>Tecnologia aplicada</strong><br><br>Desenvolvimento, integrações e automação com IA como parte do trabalho de produto.</td>
-</tr>
-</table>
+- **Aquisição e escala:** marketing, ofertas, tráfego pago e vendas. Apoio operações que me chamam para trabalhar no crescimento.
+- **Produto e negócio:** participação em projetos e SaaS, construção de funcionalidades e melhoria da experiência de quem usa.
+- **Tecnologia aplicada:** desenvolvimento, integrações e automação com IA como parte do trabalho de produto.
 
 ## ZuckPay e outras operações
 
@@ -57,7 +56,12 @@ Não publico detalhes de operações ou participações confidenciais. Os indica
 
 ---
 
-[![Vamos conversar sobre produtos e operações digitais — @ocadubezerra](assets/profile-footer.svg)](https://x.com/ocadubezerra)
+<a href="https://x.com/ocadubezerra">
+<picture>
+<source media="(max-width: 640px)" srcset="assets/profile-footer-mobile.svg">
+<img src="assets/profile-footer.svg" alt="Vamos conversar sobre produtos e operações digitais — @ocadubezerra" width="1200">
+</picture>
+</a>
 
 <p align="center">
   <a href="https://x.com/ocadubezerra">X · @ocadubezerra</a> &nbsp;·&nbsp;
