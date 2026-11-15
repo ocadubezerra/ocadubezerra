@@ -1,9 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-label="Cadu Bezerra — marketing, negócios e desenvolvimento">
-<path d="M0 18H640" stroke="#d6dbe0"/>
-<path d="M0 18H58" stroke="#c94f40" stroke-width="3"/>
-<text x="0" y="58" fill="#56616d" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2">OCADUBEZERRA</text>
-<text x="0" y="143" fill="#182029" font-family="Georgia,Times New Roman,serif" font-size="70" letter-spacing="-4">Cadu Bezerra<tspan fill="#c94f40">.</tspan></text>
-<text x="2" y="194" fill="#56616d" font-family="Arial,Helvetica,sans-serif" font-size="22">Marketing, negócios e desenvolvimento.</text>
-<text x="2" y="265" fill="#56616d" font-family="monospace" font-size="17">TRÁFEGO PAGO / SAAS / PAGAMENTOS</text>
-
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="290" viewBox="0 0 640 290" role="img" aria-label="Cadu Bezerra — tech, tráfego, SaaS e pagamentos"><svg x="0" y="0" width="640" height="48" viewBox="0 0 1200 48" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0H1200V20C1010 48 842 8 632 25S210 57 0 23Z" fill="#677786" opacity=".13"/><path d="M0 0H1200V11C935 35 774 6 548 20S180 33 0 9Z" fill="#b95f4e" opacity=".25"/><path d="M0 8C180 32 351 27 548 20S935 35 1200 11" fill="none" stroke="#b95f4e" opacity=".48" stroke-width="1"/></svg>
+<text x="0" y="87" fill="#56616d" font-family="monospace" font-size="17" letter-spacing="0.7">TECH / TRÁFEGO / SAAS / PAGAMENTOS</text>
+<text x="0" y="169" fill="#182029" font-family="Georgia,Times New Roman,serif" font-size="70" letter-spacing="-4">Cadu Bezerra<tspan fill="#b95f4e">.</tspan></text>
+<text x="2" y="217" fill="#56616d" font-family="Arial,Helvetica,sans-serif" font-size="22">Marketing, negócios e desenvolvimento.</text>
+<text x="2" y="267" text-anchor="start" fill="#56616d" font-family="monospace" font-size="16">NO DIGITAL DESDE 2019</text></svg>
