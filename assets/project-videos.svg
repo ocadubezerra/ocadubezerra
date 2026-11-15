@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="570" height="248" viewBox="0 0 570 248" role="img" aria-label="Vídeos com mascote — Voz, lip sync e legendas.">
-<rect x="1" y="1" width="568" height="246" rx="3" fill="#11171f" stroke="#333c47"/>
-<text x="26" y="34" fill="#a0a9b4" font-family="monospace" font-size="11" letter-spacing="1.5">PRODUÇÃO DE CONTEÚDO</text><g transform="translate(499 19) scale(.85)" fill="none" stroke="#dba496" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="30" height="39" rx="4"/><path d="M15 14l12 8-12 8zM1 13v17M39 13v17"/></g>
-<text x="25" y="86" fill="#f0eee8" font-family="Georgia,Times New Roman,serif" font-size="30">Vídeos com mascote</text>
-<text x="26" y="128" fill="#d1d6dc" font-family="Arial,sans-serif" font-size="19">Voz, lip sync e legendas.</text><text x="26" y="155" fill="#a0a9b4" font-family="Arial,sans-serif" font-size="17">Pipeline para vídeos verticais.</text>
-<path d="M26 190h518" stroke="#333c47"/><text x="26" y="224" fill="#a0a9b4" font-family="monospace" font-size="13">Python / HyperFrames</text><text x="544" y="224" text-anchor="end" fill="#dba496" font-family="Arial,sans-serif" font-size="16">↗</text></svg>
+<rect x="1" y="1" width="568" height="246" rx="3" fill="#161616" stroke="#3b3b3b"/>
+<text x="26" y="34" fill="#a8a8a8" font-family="monospace" font-size="11" letter-spacing="1.5">PRODUÇÃO DE CONTEÚDO</text><g transform="translate(499 19) scale(.85)" fill="none" stroke="#afafaf" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="5" y="2" width="30" height="39" rx="4"/><path d="M15 14l12 8-12 8zM1 13v17M39 13v17"/></g>
+<text x="25" y="86" fill="#eeeeee" font-family="Georgia,Times New Roman,serif" font-size="30">Vídeos com mascote</text>
+<text x="26" y="128" fill="#d5d5d5" font-family="Arial,sans-serif" font-size="19">Voz, lip sync e legendas.</text><text x="26" y="155" fill="#a8a8a8" font-family="Arial,sans-serif" font-size="17">Pipeline para vídeos verticais.</text>
+<path d="M26 190h518" stroke="#3b3b3b"/><text x="26" y="224" fill="#a8a8a8" font-family="monospace" font-size="13">Python / HyperFrames</text><text x="544" y="224" text-anchor="end" fill="#afafaf" font-family="Arial,sans-serif" font-size="16">↗</text></svg>

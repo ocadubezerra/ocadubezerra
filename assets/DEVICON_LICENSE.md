@@ -1,6 +1,6 @@
 # Devicon — licença e procedência
 
-Os três ícones monocromáticos locais de GitHub, Vercel e Railway derivam do projeto [Devicon](https://github.com/devicons/devicon). A cor foi adaptada para contraste em temas claros e escuros; a geometria foi preservada. Os nomes e marcas pertencem aos respectivos titulares. Os demais ícones Devicon são carregados da distribuição pública.
+Os ícones de tecnologias e ferramentas derivam do projeto [Devicon](https://github.com/devicons/devicon). As cores foram convertidas para tons de cinza, preservando a geometria e o contraste. O botão Meu GitHub usa o símbolo original do GitHub distribuído pelo Devicon. Marcas pertencem aos respectivos titulares.
 
 ## Licença original do Devicon
 

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="570" height="248" viewBox="0 0 570 248" role="img" aria-label="Comenta EU QUERO — Do comentário à mensagem.">
-<rect x="1" y="1" width="568" height="246" rx="3" fill="#11171f" stroke="#333c47"/>
-<text x="26" y="34" fill="#a0a9b4" font-family="monospace" font-size="11" letter-spacing="1.5">AUTOMAÇÃO</text><g transform="translate(499 19) scale(.85)" fill="none" stroke="#dba496" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h29v23H15l-8 7v-7H2zM13 31h15l10 8v-8h5V14h-7M9 11h15M9 18h10"/></g>
-<text x="25" y="86" fill="#f0eee8" font-family="Georgia,Times New Roman,serif" font-size="30">Comenta EU QUERO</text>
-<text x="26" y="128" fill="#d1d6dc" font-family="Arial,sans-serif" font-size="19">Do comentário à mensagem.</text><text x="26" y="155" fill="#a0a9b4" font-family="Arial,sans-serif" font-size="17">Fluxos para atendimento no Instagram.</text>
-<path d="M26 190h518" stroke="#333c47"/><text x="26" y="224" fill="#a0a9b4" font-family="monospace" font-size="13">FastAPI / Vue / Docker</text><text x="544" y="224" text-anchor="end" fill="#dba496" font-family="Arial,sans-serif" font-size="16">↗</text></svg>
+<rect x="1" y="1" width="568" height="246" rx="3" fill="#161616" stroke="#3b3b3b"/>
+<text x="26" y="34" fill="#a8a8a8" font-family="monospace" font-size="11" letter-spacing="1.5">AUTOMAÇÃO</text><g transform="translate(499 19) scale(.85)" fill="none" stroke="#afafaf" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h29v23H15l-8 7v-7H2zM13 31h15l10 8v-8h5V14h-7M9 11h15M9 18h10"/></g>
+<text x="25" y="86" fill="#eeeeee" font-family="Georgia,Times New Roman,serif" font-size="30">Comenta EU QUERO</text>
+<text x="26" y="128" fill="#d5d5d5" font-family="Arial,sans-serif" font-size="19">Do comentário à mensagem.</text><text x="26" y="155" fill="#a8a8a8" font-family="Arial,sans-serif" font-size="17">Fluxos para atendimento no Instagram.</text>
+<path d="M26 190h518" stroke="#3b3b3b"/><text x="26" y="224" fill="#a8a8a8" font-family="monospace" font-size="13">FastAPI / Vue / Docker</text><text x="544" y="224" text-anchor="end" fill="#afafaf" font-family="Arial,sans-serif" font-size="16">↗</text></svg>
