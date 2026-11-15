@@ -44,3 +44,13 @@ Aqui compartilho os projetos que posso abrir. O código dos produtos privados pe
 **Vamos conversar:** [@ocadubezerra no X](https://x.com/ocadubezerra) · [ZuckPay](https://zuckpay.com.br)
 
 [Autoria e uso da marca](RIGHTS.md) · [Direitos reservados do perfil](LICENSE.md)
+
+
+## Documentação do projeto
+
+- [Como contribuir](CONTRIBUTING.md)
+- [Código de conduta](CODE_OF_CONDUCT.md)
+- [Política de segurança](SECURITY.md)
+- [Autoria e uso da marca](RIGHTS.md)
+- [Procedência e avisos](NOTICE.md)
+- [Licença e direitos aplicáveis](LICENSE.md)
