@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/profile-header.svg" alt="Cadu Bezerra — tech, tráfego, SaaS e pagamentos" width="1200">
 </picture>
 
-<p><a href="https://x.com/ocadubezerra"><img src="https://img.shields.io/badge/X%20%C2%B7%20%40ocadubezerra-24292f?style=flat-square&logo=x&logoColor=white" alt="X · @ocadubezerra"></a> &nbsp; <a href="https://zuckpay.com.br"><img src="https://img.shields.io/badge/ZuckPay-24292f?style=flat-square" alt="ZuckPay"></a> &nbsp; <a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future-24292f?style=flat-square" alt="IA The Future"></a></p>
+<p><a href="https://x.com/ocadubezerra"><img src="https://img.shields.io/badge/%40ocadubezerra-24292f?style=flat-square&logo=x&logoColor=white" alt="@ocadubezerra no X"></a> &nbsp; <a href="https://zuckpay.com.br"><img src="https://img.shields.io/badge/ZuckPay-24292f?style=flat-square" alt="ZuckPay"></a> &nbsp; <a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future-24292f?style=flat-square" alt="IA The Future"></a></p>
 
 **InfoProdutos, InfoApps, SaaS, sistemas de vendas e automações com IA para negócios reais.**
 
@@ -103,7 +103,7 @@ Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.
 <strong>Contato</strong>
 </p>
 
-<p><a href="https://x.com/ocadubezerra"><img src="https://img.shields.io/badge/X%20%C2%B7%20%40ocadubezerra-24292f?style=flat-square&logo=x&logoColor=white" alt="X · @ocadubezerra"></a> &nbsp; <a href="https://zuckpay.com.br"><img src="https://img.shields.io/badge/ZuckPay-24292f?style=flat-square" alt="ZuckPay"></a> &nbsp; <a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future-24292f?style=flat-square" alt="IA The Future"></a></p>
+<p><a href="https://x.com/ocadubezerra"><img src="https://img.shields.io/badge/%40ocadubezerra-24292f?style=flat-square&logo=x&logoColor=white" alt="@ocadubezerra no X"></a> &nbsp; <a href="https://zuckpay.com.br"><img src="https://img.shields.io/badge/ZuckPay-24292f?style=flat-square" alt="ZuckPay"></a> &nbsp; <a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future-24292f?style=flat-square" alt="IA The Future"></a></p>
 
 <picture>
 <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves-static.svg">
