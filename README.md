@@ -1,13 +1,13 @@
 <picture>
-<source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-header-mobile-light.svg">
-<source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-header-mobile.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-header-light.svg">
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-header.svg" alt="Cadu Bezerra — tech, tráfego, SaaS e pagamentos" width="1200">
+<source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header-mobile-light.svg">
+<source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header-mobile.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header-light.svg">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header.svg" alt="Cadu Bezerra — tech, tráfego, SaaS e pagamentos" width="1200">
 </picture>
 
 [X / @ocadubezerra](https://x.com/ocadubezerra) &nbsp; / &nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp; / &nbsp; [IA The Future](https://ia-thefuture.vercel.app)
 
-**SaaS, sistemas de vendas e automações com IA para negócios reais.**
+**InfoProdutos, InfoApps, SaaS, sistemas de vendas e automações com IA para negócios reais.**
 
 Comecei no digital em 2019, com dropshipping. Minha base é marketing, vendas e tráfego pago. Hoje também desenvolvo produtos e ajudo a escalar as operações que me chamam.
 
@@ -77,6 +77,12 @@ Cada projeto tem sua própria licença. [Autoria e marcas](RIGHTS.md) · [Proced
 
 </details>
 
+## 📫 Vamos construir algo juntos?
+
+Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.instagram.com/ocadubezerra/)
+
+[![Meu GitHub](https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/contact-github.svg)](https://github.com/ocadubezerra)
+
 <p>
 <a href="https://www.instagram.com/ocadubezerra/" title="Instagram · @ocadubezerra">
 <picture>
@@ -90,8 +96,8 @@ Cada projeto tem sua própria licença. [Autoria e marcas](RIGHTS.md) · [Proced
 <sub>[X](https://x.com/ocadubezerra) &nbsp;·&nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp;·&nbsp; [IA The Future](https://ia-thefuture.vercel.app)</sub>
 
 <picture>
-<source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-footer-mobile-light.svg">
-<source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-footer-mobile.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-footer-light.svg">
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0f59f6d62424f0f929a15b5f361ab066854a732f/assets/profile-footer.svg" alt="Ondas de encerramento" width="1200">
+<source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer-mobile-light.svg">
+<source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer-mobile.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer-light.svg">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer.svg" alt="Ondas de encerramento" width="1200">
 </picture>
