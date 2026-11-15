@@ -1,4 +1,8 @@
 <picture>
+<source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-header-mobile-light-static.svg">
+<source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-header-mobile-static.svg">
+<source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-header-light-static.svg">
+<source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-header-static.svg">
 <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header-mobile-light.svg">
 <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header-mobile.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-header-light.svg">
@@ -97,6 +101,10 @@ Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.
 <sub>[X](https://x.com/ocadubezerra) &nbsp;·&nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp;·&nbsp; [IA The Future](https://ia-thefuture.vercel.app)</sub>
 
 <picture>
+<source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-footer-mobile-light-static.svg">
+<source media="(prefers-reduced-motion: reduce) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-footer-mobile-static.svg">
+<source media="(prefers-reduced-motion: reduce) and (prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-footer-light-static.svg">
+<source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/ef28354eb0507d5f7f0028d38a692ee50a505332/assets/profile-footer-static.svg">
 <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer-mobile-light.svg">
 <source media="(max-width: 640px)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer-mobile.svg">
 <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/742abcfd1fa7a7ac2b347c2664decff1cf433e71/assets/profile-footer-light.svg">
