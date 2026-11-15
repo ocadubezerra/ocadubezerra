@@ -34,16 +34,12 @@ Tenho participação em outros projetos e SaaS e colaboro com operações em cre
 
 ## Projetos públicos
 
-<table>
-<tr>
-<td width="50%"><a href="https://github.com/ocadubezerra/godmodeforclaude"><img src="assets/project-godmode.svg" alt="Godmode for Claude — orquestração de agentes no Claude Code" width="570"></a></td>
-<td width="50%"><a href="https://github.com/ocadubezerra/agente-videos-mascote-lipsync"><img src="assets/project-videos.svg" alt="Vídeos com mascote — Python, voz sintetizada e lip sync" width="570"></a></td>
-</tr>
-<tr>
-<td><a href="https://github.com/ocadubezerra/comentaeuquero"><img src="assets/project-comments.svg" alt="Comenta EU QUERO — automação de mensagens no Instagram" width="570"></a></td>
-<td><a href="https://github.com/ZuckPay/zuckpay-mcp"><img src="assets/project-payments.svg" alt="ZuckPay MCP — integração pública da plataforma de pagamentos" width="570"></a></td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/ocadubezerra/godmodeforclaude"><img src="assets/project-godmode.svg" alt="Godmode for Claude — orquestração de agentes no Claude Code" width="390"></a>
+<a href="https://github.com/ocadubezerra/agente-videos-mascote-lipsync"><img src="assets/project-videos.svg" alt="Vídeos com mascote — Python, voz sintetizada e lip sync" width="390"></a>
+<a href="https://github.com/ocadubezerra/comentaeuquero"><img src="assets/project-comments.svg" alt="Comenta EU QUERO — automação de mensagens no Instagram" width="390"></a>
+<a href="https://github.com/ZuckPay/zuckpay-mcp"><img src="assets/project-payments.svg" alt="ZuckPay MCP — integração pública da plataforma de pagamentos" width="390"></a>
+</p>
 
 **[IA The Future ↗](https://ia-thefuture.vercel.app)** — meu projeto de conteúdo sobre inteligência artificial.
 
