@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="248" viewBox="0 0 570 248" role="img" aria-label="ZuckPay MCP — A API no assistente de IA.">
+<rect x="1" y="1" width="568" height="246" rx="3" fill="#161616" stroke="#3b3b3b"/>
+<text x="26" y="34" fill="#a8a8a8" font-family="monospace" font-size="11" letter-spacing="1.5">PAGAMENTOS</text><g transform="translate(494 15)" fill="none" stroke="#afafaf" stroke-width="1.65" stroke-linecap="round" stroke-linejoin="round"><rect x="1" y="7" width="30" height="22" rx="3"/><path d="M1 14h30M7 23h7M37 12l6 6-6 6M43 18h7"/><circle cx="51" cy="18" r="2.5"/><path d="M31 29v5h12v-7"/></g>
+<text x="25" y="86" fill="#eeeeee" font-family="Georgia,Times New Roman,serif" font-size="30">ZuckPay MCP</text>
+<text x="26" y="128" fill="#d5d5d5" font-family="Arial,sans-serif" font-size="19">A API no assistente de IA.</text><text x="26" y="155" fill="#a8a8a8" font-family="Arial,sans-serif" font-size="17">Integração pública da ZuckPay.</text>
+<path d="M26 190h518" stroke="#3b3b3b"/><text x="26" y="224" fill="#a8a8a8" font-family="monospace" font-size="13">TypeScript / Node.js / MCP</text><text x="544" y="224" text-anchor="end" fill="#afafaf" font-family="Arial,sans-serif" font-size="16">↗</text></svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="72" viewBox="0 0 1200 72" role="img" aria-label="Ondas suaves animadas; respeitam movimento reduzido"><svg x="0" y="0" width="1200" height="72" viewBox="0 0 1200 72" preserveAspectRatio="none" overflow="hidden" aria-hidden="true">
+<style>@keyframes flow{from{transform:translateX(0)}to{transform:translateX(-1200px)}}.flow-a{animation:flow 28s linear infinite}.flow-b{animation:flow 41s linear infinite reverse}@media(prefers-reduced-motion:reduce){.flow-a,.flow-b{animation:none}}</style>
+<defs><linearGradient id="copper" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#d99e88" stop-opacity=".17"/><stop offset=".5" stop-color="#d99e88" stop-opacity=".3"/><stop offset="1" stop-color="#d99e88" stop-opacity=".17"/></linearGradient>
+<g id="copper-ribbon"><path d="M0 24C200 4 400 4 600 24S1000 44 1200 24L1200 36C1000 56 800 56 600 36S200 16 0 36Z" fill="url(#copper)"/><path d="M0 24C200 4 400 4 600 24S1000 44 1200 24" stroke="#d99e88" fill="none" opacity=".52" stroke-width="1"/></g>
+<g id="blue-ribbon"><path d="M0 24C200 4 400 4 600 24S1000 44 1200 24L1200 36C1000 56 800 56 600 36S200 16 0 36Z" fill="#88a3b4" opacity=".13"/><path d="M0 24C200 4 400 4 600 24S1000 44 1200 24" stroke="#88a3b4" fill="none" opacity=".22" stroke-width=".6"/></g></defs>
+<g transform="translate(0 12)"><g class="flow-a"><use href="#copper-ribbon"/><use href="#copper-ribbon" x="1200"/></g></g>
+<g transform="translate(0 7) scale(1 -1)"><g transform="translate(0 -58)"><g class="flow-b"><use href="#blue-ribbon"/><use href="#blue-ribbon" x="1200"/></g></g></g>
+</svg></svg>
