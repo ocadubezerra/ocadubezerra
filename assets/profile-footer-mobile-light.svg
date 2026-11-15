@@ -1,3 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="100" viewBox="0 0 640 100" role="img" aria-label="Contato — @ocadubezerra">
-<text x="0" y="31" fill="#56616d" font-family="monospace" font-size="15" letter-spacing="1.5">CONTATO</text><text x="640" y="31" text-anchor="end" fill="#56616d" font-family="monospace" font-size="17">@ocadubezerra</text>
-<svg x="0" y="54" width="640" height="46" viewBox="0 0 1200 46" preserveAspectRatio="none" aria-hidden="true"><path d="M0 21C210-9 388 38 610 20S990 3 1200 22V46H0Z" fill="#677786" opacity=".13"/><path d="M0 34C250 9 384 44 625 29S994 15 1200 35V46H0Z" fill="#b95f4e" opacity=".25"/><path d="M0 34C250 9 384 44 625 29S994 15 1200 35" fill="none" stroke="#b95f4e" opacity=".48" stroke-width="1"/></svg></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="72" viewBox="0 0 640 72" role="img" aria-label="Ondas de encerramento"><svg x="0" y="0" width="640" height="72" viewBox="0 0 1200 72" preserveAspectRatio="none" aria-hidden="true">
+<defs><linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ad695a"/><stop offset=".58" stop-color="#d5a28c"/><stop offset="1" stop-color="#738b98"/></linearGradient></defs>
+<g transform="translate(1200 72) rotate(180)">
+<path d="M0 16C190 57 356 48 566 24S970 8 1200 31L1200 46C975 24 800 30 590 46S205 76 0 37Z" fill="url(#ribbon)" opacity=".2"/>
+<path d="M0 30C228 5 368 12 592 39S989 69 1200 29L1200 36C982 82 808 69 582 48S218 24 0 43Z" fill="#738b98" opacity=".13"/>
+<path d="M0 18C196 59 355 48 566 25S970 9 1200 32" fill="none" stroke="url(#ribbon)" stroke-width="1.25" opacity=".66"/>
+<path d="M0 42C215 23 363 23 582 47S982 80 1200 35" fill="none" stroke="#738b98" stroke-width=".7" opacity=".3"/>
+</g></svg></svg>

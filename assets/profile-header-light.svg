@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Cadu Bezerra — tech, tráfego, SaaS e pagamentos"><svg x="0" y="0" width="1200" height="48" viewBox="0 0 1200 48" preserveAspectRatio="none" aria-hidden="true"><path d="M0 0H1200V20C1010 48 842 8 632 25S210 57 0 23Z" fill="#677786" opacity=".13"/><path d="M0 0H1200V11C935 35 774 6 548 20S180 33 0 9Z" fill="#b95f4e" opacity=".25"/><path d="M0 8C180 32 351 27 548 20S935 35 1200 11" fill="none" stroke="#b95f4e" opacity=".48" stroke-width="1"/></svg>
-<text x="0" y="84" fill="#56616d" font-family="monospace" font-size="14" letter-spacing="1">TECH / TRÁFEGO / SAAS / PAGAMENTOS</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="Cadu Bezerra — tech, tráfego, SaaS e pagamentos"><svg x="0" y="0" width="1200" height="72" viewBox="0 0 1200 72" preserveAspectRatio="none" aria-hidden="true">
+<defs><linearGradient id="ribbon" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#ad695a"/><stop offset=".58" stop-color="#d5a28c"/><stop offset="1" stop-color="#738b98"/></linearGradient></defs>
+<g transform="">
+<path d="M0 16C190 57 356 48 566 24S970 8 1200 31L1200 46C975 24 800 30 590 46S205 76 0 37Z" fill="url(#ribbon)" opacity=".2"/>
+<path d="M0 30C228 5 368 12 592 39S989 69 1200 29L1200 36C982 82 808 69 582 48S218 24 0 43Z" fill="#738b98" opacity=".13"/>
+<path d="M0 18C196 59 355 48 566 25S970 9 1200 32" fill="none" stroke="url(#ribbon)" stroke-width="1.25" opacity=".66"/>
+<path d="M0 42C215 23 363 23 582 47S982 80 1200 35" fill="none" stroke="#738b98" stroke-width=".7" opacity=".3"/>
+</g></svg>
+<text x="0" y="94" fill="#56616d" font-family="monospace" font-size="14" letter-spacing="1">TECH / TRÁFEGO / SAAS / PAGAMENTOS</text>
 <text x="0" y="186" fill="#182029" font-family="Georgia,Times New Roman,serif" font-size="105" letter-spacing="-4">Cadu Bezerra<tspan fill="#b95f4e">.</tspan></text>
 <text x="2" y="234" fill="#56616d" font-family="Arial,Helvetica,sans-serif" font-size="21">Marketing, negócios e desenvolvimento.</text>
-<text x="1200" y="84" text-anchor="end" fill="#56616d" font-family="monospace" font-size="13">NO DIGITAL DESDE 2019</text></svg>
+<text x="1200" y="94" text-anchor="end" fill="#56616d" font-family="monospace" font-size="13">NO DIGITAL DESDE 2019</text></svg>

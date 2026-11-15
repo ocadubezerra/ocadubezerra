@@ -50,11 +50,11 @@ Cada projeto tem sua própria licença. [Autoria e marcas](RIGHTS.md) · [Proced
 
 </details>
 
+<sub>[X](https://x.com/ocadubezerra) &nbsp;·&nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp;·&nbsp; [IA The Future](https://ia-thefuture.vercel.app)</sub>
+
 <picture>
 <source media="(prefers-color-scheme: light) and (max-width: 640px)" srcset="assets/profile-footer-mobile-light.svg">
 <source media="(max-width: 640px)" srcset="assets/profile-footer-mobile.svg">
 <source media="(prefers-color-scheme: light)" srcset="assets/profile-footer-light.svg">
-<img src="assets/profile-footer.svg" alt="Contato — @ocadubezerra" width="1200">
+<img src="assets/profile-footer.svg" alt="Ondas de encerramento" width="1200">
 </picture>
-
-<sub>[X](https://x.com/ocadubezerra) &nbsp;·&nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp;·&nbsp; [IA The Future](https://ia-thefuture.vercel.app)</sub>
