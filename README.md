@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/profile-header.svg" alt="Cadu Bezerra — tech, tráfego, SaaS e pagamentos" width="1200">
 </picture>
 
-[X / @ocadubezerra](https://x.com/ocadubezerra) &nbsp; / &nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp; / &nbsp; [IA The Future](https://ia-thefuture.vercel.app)
+<p><a href="https://x.com/ocadubezerra"><img src="https://img.shields.io/badge/X%20%C2%B7%20%40ocadubezerra-24292f?style=flat-square&logo=x&logoColor=white" alt="X · @ocadubezerra"></a> &nbsp; <a href="https://zuckpay.com.br"><img src="https://img.shields.io/badge/ZuckPay-24292f?style=flat-square" alt="ZuckPay"></a> &nbsp; <a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future-24292f?style=flat-square" alt="IA The Future"></a></p>
 
 **InfoProdutos, InfoApps, SaaS, sistemas de vendas e automações com IA para negócios reais.**
 
@@ -33,7 +33,7 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-nodejs-color.svg" alt="Node.js" title="Node.js" width="36" height="36">
 </p>
 
-<sub>PHP · JavaScript · TypeScript · Python · React · Node.js</sub>
+<p><img src="https://img.shields.io/badge/PHP-24292f?style=flat-square" alt="PHP"> <img src="https://img.shields.io/badge/JavaScript-24292f?style=flat-square" alt="JavaScript"> <img src="https://img.shields.io/badge/TypeScript-24292f?style=flat-square" alt="TypeScript"> <img src="https://img.shields.io/badge/Python-24292f?style=flat-square" alt="Python"> <img src="https://img.shields.io/badge/React-24292f?style=flat-square" alt="React"> <img src="https://img.shields.io/badge/Node.js-24292f?style=flat-square" alt="Node.js"></p>
 
 **Dados**
 
@@ -43,7 +43,7 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-supabase-color.svg" alt="Supabase" title="Supabase" width="36" height="36">
 </p>
 
-<sub>PostgreSQL · MySQL · Supabase</sub>
+<p><img src="https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-24292f?style=flat-square" alt="MySQL"> <img src="https://img.shields.io/badge/Supabase-24292f?style=flat-square" alt="Supabase"></p>
 
 ### DevOps & Ferramentas
 
@@ -59,7 +59,7 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-git-color.svg" alt="Git" title="Git" width="36" height="36">
 </p>
 
-<sub>Docker · GitHub · Vercel · Railway · Figma · VS Code · Claude Code · OpenBot · Git</sub>
+<p><img src="https://img.shields.io/badge/Docker-24292f?style=flat-square" alt="Docker"> <img src="https://img.shields.io/badge/GitHub-24292f?style=flat-square" alt="GitHub"> <img src="https://img.shields.io/badge/Vercel-24292f?style=flat-square" alt="Vercel"> <img src="https://img.shields.io/badge/Railway-24292f?style=flat-square" alt="Railway"> <img src="https://img.shields.io/badge/Figma-24292f?style=flat-square" alt="Figma"> <img src="https://img.shields.io/badge/VS%20Code-24292f?style=flat-square" alt="VS Code"> <img src="https://img.shields.io/badge/Claude%20Code-24292f?style=flat-square" alt="Claude Code"> <img src="https://img.shields.io/badge/OpenBot-24292f?style=flat-square" alt="OpenBot"> <img src="https://img.shields.io/badge/Git-24292f?style=flat-square" alt="Git"></p>
 
 ## Projetos
 
@@ -70,7 +70,7 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 <a href="https://github.com/ZuckPay/zuckpay-mcp"><img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/project-payments.svg" alt="ZuckPay MCP — integração da API com assistentes de IA" width="390"></a>
 </p>
 
-**[IA The Future ↗](https://ia-thefuture.vercel.app)** — conteúdo sobre inteligência artificial.
+<p><a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future%20%E2%86%97-24292f?style=flat-square" alt="IA The Future ↗"></a> &nbsp; Conteúdo sobre inteligência artificial.</p>
 
 ## Pull requests públicas integradas
 
@@ -103,7 +103,7 @@ Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.
 <strong>Contato</strong>
 </p>
 
-<sub>[X](https://x.com/ocadubezerra) &nbsp;·&nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp;·&nbsp; [IA The Future](https://ia-thefuture.vercel.app)</sub>
+<p><a href="https://x.com/ocadubezerra"><img src="https://img.shields.io/badge/X%20%C2%B7%20%40ocadubezerra-24292f?style=flat-square&logo=x&logoColor=white" alt="X · @ocadubezerra"></a> &nbsp; <a href="https://zuckpay.com.br"><img src="https://img.shields.io/badge/ZuckPay-24292f?style=flat-square" alt="ZuckPay"></a> &nbsp; <a href="https://ia-thefuture.vercel.app"><img src="https://img.shields.io/badge/IA%20The%20Future-24292f?style=flat-square" alt="IA The Future"></a></p>
 
 <picture>
 <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves-static.svg">
