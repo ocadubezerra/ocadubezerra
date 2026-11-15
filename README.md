@@ -1,6 +1,6 @@
 <picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/japanese-waves-static.svg">
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/japanese-waves.svg" alt="Ondas japonesas de abertura" width="1200">
+<source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves-static.svg">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves.svg" alt="Ondas japonesas de abertura" width="100%">
 </picture>
 
 <picture>
@@ -25,12 +25,12 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 **Aplicações**
 
 <p>
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-php-mono.svg" alt="PHP" title="PHP" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-javascript-mono.svg" alt="JavaScript" title="JavaScript" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-typescript-mono.svg" alt="TypeScript" title="TypeScript" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-python-mono.svg" alt="Python" title="Python" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-react-mono.svg" alt="React" title="React" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-nodejs-mono.svg" alt="Node.js" title="Node.js" width="36" height="36">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-php-color.svg" alt="PHP" title="PHP" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-javascript-color.svg" alt="JavaScript" title="JavaScript" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-typescript-color.svg" alt="TypeScript" title="TypeScript" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-python-color.svg" alt="Python" title="Python" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-react-color.svg" alt="React" title="React" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-nodejs-color.svg" alt="Node.js" title="Node.js" width="36" height="36">
 </p>
 
 <sub>PHP · JavaScript · TypeScript · Python · React · Node.js</sub>
@@ -38,9 +38,9 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 **Dados**
 
 <p>
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-postgresql-mono.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-mysql-mono.svg" alt="MySQL" title="MySQL" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-supabase-mono.svg" alt="Supabase" title="Supabase" width="36" height="36">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-postgresql-color.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-mysql-color.svg" alt="MySQL" title="MySQL" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-supabase-color.svg" alt="Supabase" title="Supabase" width="36" height="36">
 </p>
 
 <sub>PostgreSQL · MySQL · Supabase</sub>
@@ -48,15 +48,15 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 ### DevOps & Ferramentas
 
 <p>
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-docker-mono.svg" alt="Docker" title="Docker" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-docker-color.svg" alt="Docker" title="Docker" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-github-neutral.svg" alt="GitHub" title="GitHub" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-vercel-neutral.svg" alt="Vercel" title="Vercel" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-railway-neutral.svg" alt="Railway" title="Railway" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-figma-mono.svg" alt="Figma" title="Figma" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-vscode-mono.svg" alt="VS Code" title="VS Code" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-claude-mono.svg" alt="Claude Code" title="Claude Code" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-figma-color.svg" alt="Figma" title="Figma" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-vscode-color.svg" alt="VS Code" title="VS Code" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-claude-color.svg" alt="Claude Code" title="Claude Code" width="36" height="36"> &nbsp;
 <a href="https://github.com/nightly-labs/openbot"><img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/openbot-icon-black.svg" alt="OpenBot" title="OpenBot" width="36" height="36"></a> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-git-mono.svg" alt="Git" title="Git" width="36" height="36">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/icon-git-color.svg" alt="Git" title="Git" width="36" height="36">
 </p>
 
 <sub>Docker · GitHub · Vercel · Railway · Figma · VS Code · Claude Code · OpenBot · Git</sub>
@@ -106,6 +106,6 @@ Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.
 <sub>[X](https://x.com/ocadubezerra) &nbsp;·&nbsp; [ZuckPay](https://zuckpay.com.br) &nbsp;·&nbsp; [IA The Future](https://ia-thefuture.vercel.app)</sub>
 
 <picture>
-<source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/japanese-waves-static.svg">
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/japanese-waves.svg" alt="Ondas japonesas de encerramento" width="1200">
+<source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves-static.svg">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves.svg" alt="Ondas japonesas de encerramento" width="100%">
 </picture>
