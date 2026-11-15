@@ -87,7 +87,7 @@ Cada projeto tem sua própria licença. [Autoria e marcas](RIGHTS.md) · [Proced
 
 </details>
 
-## <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/contact-illustration.svg" alt="" width="28" height="28"> Vamos construir seu próximo projeto?
+## <picture><source media="(prefers-color-scheme: light)" srcset="assets/contact-illustration-light.svg"><img src="assets/contact-illustration.svg" alt="" width="28" height="28"></picture> Vamos construir seu próximo projeto?
 
 Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.instagram.com/ocadubezerra/)
 
