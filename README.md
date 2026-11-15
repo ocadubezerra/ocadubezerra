@@ -33,26 +33,30 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-nodejs-mono.svg" alt="Node.js" title="Node.js" width="36" height="36">
 </p>
 
+<sub>PHP · JavaScript · TypeScript · Python · React · Node.js</sub>
+
 **Dados**
 
 <p>
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-postgresql-mono.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-mysql-mono.svg" alt="MySQL" title="MySQL" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-mysql-mono.svg" alt="MySQL" title="MySQL" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-supabase-mono.svg" alt="Supabase" title="Supabase" width="36" height="36">
 </p>
+
+<sub>PostgreSQL · MySQL · Supabase</sub>
 
 ### DevOps & Ferramentas
 
 <p>
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-docker-mono.svg" alt="Docker" title="Docker" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-docker-mono.svg" alt="Docker" title="Docker" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-github-neutral.svg" alt="GitHub" title="GitHub" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-vercel-neutral.svg" alt="Vercel" title="Vercel" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-railway-neutral.svg" alt="Railway" title="Railway" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-figma-mono.svg" alt="Figma" title="Figma" width="36" height="36"> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-vscode-mono.svg" alt="VS Code" title="VS Code" width="36" height="36"> &nbsp;
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-vscode-mono.svg" alt="VS Code" title="VS Code" width="36" height="36"> &nbsp;
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-claude-mono.svg" alt="Claude Code" title="Claude Code" width="36" height="36"> &nbsp;
 <a href="https://github.com/nightly-labs/openbot"><img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/openbot-icon-black.svg" alt="OpenBot" title="OpenBot" width="36" height="36"></a> &nbsp;
-<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/488dc88204966af9d942fd80bf5030f807fab3d3/assets/icon-git-mono.svg" alt="Git" title="Git" width="36" height="36">
+<img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/db7bd8f7f8379446891940b0720a7766b3aaf121/assets/icon-git-mono.svg" alt="Git" title="Git" width="36" height="36">
 </p>
 
 <sub>Docker · GitHub · Vercel · Railway · Figma · VS Code · Claude Code · OpenBot · Git</sub>
