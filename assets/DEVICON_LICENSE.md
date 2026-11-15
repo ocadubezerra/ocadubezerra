@@ -1,6 +1,6 @@
 # Devicon — licença e procedência
 
-Os ícones de tecnologias e ferramentas derivam do projeto [Devicon](https://github.com/devicons/devicon). As cores foram convertidas para tons de cinza, preservando a geometria e o contraste. O botão Meu GitHub usa o símbolo original do GitHub distribuído pelo Devicon. Marcas pertencem aos respectivos titulares.
+Os ícones de tecnologias e ferramentas derivam do projeto [Devicon](https://github.com/devicons/devicon). Aplicações, dados e ferramentas usam as cores originais do Devicon. GitHub, Vercel e Railway mantêm suas marcas neutras para contraste; OpenBot preserva a marca preta com olhos brancos. O botão Meu GitHub usa o símbolo original do GitHub distribuído pelo Devicon. Marcas pertencem aos respectivos titulares.
 
 ## Licença original do Devicon
 
