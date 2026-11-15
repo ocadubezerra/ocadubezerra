@@ -109,3 +109,5 @@ Tem um negócio que precisa vender mais com tecnologia? [Me chama.](https://www.
 <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves-static.svg">
 <img src="https://raw.githubusercontent.com/ocadubezerra/ocadubezerra/0c1bed1b9fad9f5d0ff2e3a8fe32e76a7097be26/assets/japanese-waves.svg" alt="Ondas japonesas de encerramento" width="100%">
 </picture>
+
+<p align="center"><sub>© 2026 Cadu Bezerra. Direitos reservados sobre o conteúdo original deste perfil. <a href="RIGHTS.md">Autoria e marcas</a>.</sub></p>
