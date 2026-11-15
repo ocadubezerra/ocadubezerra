@@ -46,10 +46,11 @@ Tenho participação em outros negócios, alguns fora da comunicação pública.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" title="Figma" width="36" height="36"> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" title="VS Code" width="36" height="36"> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" alt="Claude Code" title="Claude Code" width="36" height="36"> &nbsp;
+<a href="https://github.com/nightly-labs/openbot"><img src="https://raw.githubusercontent.com/nightly-labs/openbot/main/apps/auth-api/public/icon-192x192.png" alt="OpenBot" title="OpenBot" width="36" height="36"></a> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="36" height="36">
 </p>
 
-<sub>Docker · GitHub · Vercel · Railway · Figma · VS Code · Claude Code · Git</sub>
+<sub>Docker · GitHub · Vercel · Railway · Figma · VS Code · Claude Code · OpenBot · Git</sub>
 
 ## Projetos
 
